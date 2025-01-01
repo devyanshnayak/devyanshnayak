@@ -2,7 +2,7 @@
   <span id="element"></span>
 
   <!-- Load library from the CDN -->
-  <script src="https://raw.githubusercontent.com/devyanshnayak/devyanshnayak/refs/heads/main/src/type.js"></script>
+  <script src="https://raw.githubusercontent.com/devyanshnayak/devyanshnayak/refs/heads/main/src/type.js "></script>
 
   <!-- Setup and start animation! -->
   <script>
