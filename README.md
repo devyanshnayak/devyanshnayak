@@ -8,6 +8,7 @@ young enthusiast how loves to code, tinger around and experment with tech tuff �
 
 ```sh
     echo "btw i use arch"
+    
 ```
 
 ### hobbies
@@ -27,8 +28,12 @@ young enthusiast how loves to code, tinger around and experment with tech tuff �
     <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git"/>
     <img src="https://img.shields.io/badge/ArchLinux%20-%23323330.svg?&style=for-the-badge&logo=archlinux"/>
   </p>
-  ## contact me
 
-  ![https://raw.githubusercontent.com/devyanshnayak/devyanshnayak/refs/heads/main/src/kakashi.gif](https://www.google.com)
+<h2 align="center"> contact me </h2>
+<div>
+<a href="https://t.me/devyansh_nayak"> <img src="https://raw.githubusercontent.com/devyanshnayak/devyanshnayak/refs/heads/main/src/telegram.webp" alt="telegram" width="50" height="50"/></a>
+<a href="#bye"> <img src="https://raw.githubusercontent.com/devyanshnayak/devyanshnayak/refs/heads/main/src/discorde.jpeg" alt="discord" width="50" height="50"/> </a>
+<a href="maleto:devyanshnayak@gmail.com"><img src="https://raw.githubusercontent.com/devyanshnayak/devyanshnayak/refs/heads/main/src/email.svg" alt="male" width="50" height="50"/>
 
-
+## **👋 またね 👋**
+<img src="https://raw.githubusercontent.com/devyanshnayak/devyanshnayak/refs/heads/main/src/kakashi.gif" alt="bye" align="center">
