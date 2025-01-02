@@ -36,4 +36,6 @@ young enthusiast how loves to code, tinger around and experment with tech tuff �
 <a href="maleto:devyanshnayak@gmail.com"><img src="https://raw.githubusercontent.com/devyanshnayak/devyanshnayak/refs/heads/main/src/email.svg" alt="male" width="50" height="50"/>
 
 ## **👋 またね 👋**
-<img src="https://raw.githubusercontent.com/devyanshnayak/devyanshnayak/refs/heads/main/src/kakashi.gif" alt="bye" align="center"/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/devyanshnayak/devyanshnayak/refs/heads/main/src/kakashi.gif" alt="bye"/>
+</div>
