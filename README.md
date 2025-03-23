@@ -38,5 +38,5 @@ young enthusiast how loves to code, tinger around and experment with tech tuff �
 
 ## **👋 またね 👋**
 <div align="center">
-<img src="https://raw.githubusercontent.com/devyanshnayak/devyanshnayak/refs/heads/main/src/kakashi.gif" alt="bye"/>
+<img id="bye" src="https://raw.githubusercontent.com/devyanshnayak/devyanshnayak/refs/heads/main/src/kakashi.gif" alt="bye"/>
 </div>
