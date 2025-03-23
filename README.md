@@ -27,6 +27,7 @@ young enthusiast how loves to code, tinger around and experment with tech tuff ð
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript"/>
     <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git"/>
     <img src="https://img.shields.io/badge/ArchLinux%20-%23323330.svg?&style=for-the-badge&logo=archlinux"/>
+    <img src="https://img.shields.io/badge/Docker%20-%23323330.svg?&style=for-the-badge&logo=docker"/>
   </p>
 
 <h2 align="center"> contact me </h2>
