@@ -17,6 +17,7 @@ young enthusiast how loves to code, tinger around and experment with tech tuff �
 3. sports 
 4. anime
 5. linux stuff
+6. arch riceing
 ## knowlage
 
 <p align="center">
@@ -33,8 +34,8 @@ young enthusiast how loves to code, tinger around and experment with tech tuff �
 <h2 align="center"> contact me </h2>
 <div>
 <a href="https://t.me/devyansh_nayak"> <img src="https://raw.githubusercontent.com/devyanshnayak/devyanshnayak/refs/heads/main/src/telegram.svg" alt="telegram" width="50" height="50"/></a>
-<a href="#bye"> <img src="https://raw.githubusercontent.com/devyanshnayak/devyanshnayak/refs/heads/main/src/discord.svg" alt="discord" width="50" height="50"/> </a>
 <a href="maleto:devyanshnayak@gmail.com"><img src="https://raw.githubusercontent.com/devyanshnayak/devyanshnayak/refs/heads/main/src/email.svg" alt="male" width="50" height="50"/>
+<a href="https://devyansh.ct.ws/"><img src="https://raw.githubusercontent.com/devyanshnayak/devyanshnayak/refs/heads/main/src/website.svg" alt="website" width="50" height="50"/>
 
 ## **👋 またね 👋**
 <div align="center">
