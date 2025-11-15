@@ -10,6 +10,10 @@ young enthusiast how loves to code, tinger around and experment with tech tuff ğ
     echo "btw i use arch"
 
 ```
+### languages
+- hindi
+- english
+- japanese
 
 ### hobbies
 1. swimming
@@ -18,6 +22,7 @@ young enthusiast how loves to code, tinger around and experment with tech tuff ğ
 4. anime
 5. linux stuff
 6. arch riceing
+7. language learning 
 ## knowlage
 
 <p align="center">
@@ -30,11 +35,10 @@ young enthusiast how loves to code, tinger around and experment with tech tuff ğ
     <img src="https://img.shields.io/badge/ArchLinux%20-%23323330.svg?&style=for-the-badge&logo=archlinux"/>
     <img src="https://img.shields.io/badge/Docker%20-%23323330.svg?&style=for-the-badge&logo=docker"/>
   </p>
-
 <h2 align="center"> contact me </h2>
 <div>
 <a href="https://t.me/devyansh_nayak"> <img src="https://raw.githubusercontent.com/devyanshnayak/devyanshnayak/refs/heads/main/src/telegram.svg" alt="telegram" width="50" height="50"/></a>
-<a href="maleto:devyanshnayak@gmail.com"><img src="https://raw.githubusercontent.com/devyanshnayak/devyanshnayak/refs/heads/main/src/email.svg" alt="male" width="50" height="50"/>
+<a href="maleto:devyanshnayak@gmail.com"><img src="https://raw.githubusercontent.com/devyanshnayak/devyanshnayak/refs/heads/main/src/email.svg" alt="emale" width="50" height="50"/>
 <a href="https://devyansh.ct.ws/"><img src="https://raw.githubusercontent.com/devyanshnayak/devyanshnayak/refs/heads/main/src/website.svg" alt="website" width="50" height="50"/>
 
 ## **ğŸ‘‹ ã¾ãŸã­ ğŸ‘‹**
